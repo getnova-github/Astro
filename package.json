@@ -2,7 +2,6 @@
   "name": "Astro",
   "version": "1.0.0",
   "type": "module",
-  "description": "Web proxy based on Ultraviolet",
   "engines": {
     "npm": ">=9.0.0",
     "node": ">=18.0.0"
