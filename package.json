@@ -1,6 +1,7 @@
 {
-  "name": "Astro",
+  "name": "CAstro",
   "version": "1.0.0",
+  "description": "aaaaaaa"
   "type": "module",
   "engines": {
     "npm": ">=9.0.0",
